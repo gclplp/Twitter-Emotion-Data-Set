@@ -1,6 +1,6 @@
 --- INSTRUCTIONS ---
 Run rest_api.py first to pull tweet (keys not provided)
-Then tweet_cleaner_scorer.py
+Then tweet_cleaner_scorer.py, note that both NRC lexcions are required and included.
 Lastly selecting_tweets.py should be run to get a final CSV.
 selecting_crowdsourcing.py is simply how I got a sample for MTurk.
 
